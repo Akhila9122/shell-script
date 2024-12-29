@@ -9,4 +9,4 @@ MOVIES=("RRR" "DjTillu" "murari")
 
 echo "First Movie is: ${MOVIES[0]}"
 echo "second Movie is: ${MOVIES[1]}"
-echo "List of movies: ${MOVIES[@]}
+echo "List of movies: ${MOVIES[@]}"
